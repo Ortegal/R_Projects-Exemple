@@ -2,3 +2,9 @@
 # Mais uma alteração
 
 x <- c(1,2,3)
+
+y <- c(4,3,2)
+
+z <- data.frame(x,y)
+
+z
