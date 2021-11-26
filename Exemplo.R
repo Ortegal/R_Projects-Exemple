@@ -1,4 +1,6 @@
-# Versão 1
-# Versão 2
-# Versão 3
-# Versão 4 em 23/11/2021
+# VersÃ£o 1
+# VersÃ£o 2
+# VersÃ£o 3
+# VersÃ£o 4 em 23/11/2021
+
+# VersÃ£o 5 em 26/11/2021
